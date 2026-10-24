@@ -1,0 +1,6 @@
+# Logic-level prototype dependencies. Pin the paper's reported framework versions.
+torch==2.2.0
+torchvision==0.17.0
+ultralytics==8.3.78
+opencv-python>=4.8
+numpy>=1.24

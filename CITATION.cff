@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this draft, cite the CortiFormer manuscript and identify this repository as an independent logic-level reproduction."
+title: "CortiFormer reproduction logic draft"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Hu
+    given-names: Die
+  - family-names: Xie
+    given-names: Chaoyu
+  - family-names: Zhao
+    given-names: Shengyi
+  - family-names: He
+    given-names: Xintong
+  - family-names: Yang
+    given-names: Jingyuan
+  - family-names: Wang
+    given-names: Weihua
+  - family-names: Liu
+    given-names: Xi
+  - family-names: He
+    given-names: Qiumei
+  - family-names: Chi
+    given-names: Kuanmeng
+  - family-names: Xie
+    given-names: Zhaohu
+  - family-names: Li
+    given-names: Zhaofu
+abstract: >-
+  Logic-level PyTorch draft based on the CortiFormer manuscript. This is not
+  official author source code and has not been run or validated.
